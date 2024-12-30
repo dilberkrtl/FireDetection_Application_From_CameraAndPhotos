@@ -1,0 +1,1 @@
+# FireDetection_Application_From_CameraAndPhotos
